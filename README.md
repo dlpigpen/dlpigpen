@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on any project.
 - 🤔 I’m looking for help with any project
 - 💬 I love playing guitar and piano. I am a trader but always sell at the bottom.
-- 📫 How to reach me: on telegram @mitsori
+- 📫 How to reach me: on telegram @mitsori or discord hamado#2099
