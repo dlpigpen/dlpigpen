@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Swing.finance
+- 🔭 I’m currently working on Swing.finance(https://swing.xyz/)
 - 🌱 I’m currently learning Near Rust 
 - 👯 I’m looking to collaborate on any project.
 - 🤔 I’m looking for help with any project
