@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DEFI projects
-- 🌱 I’m currently learning Near Rust 
+- 🔭 I’m a DEFI builder.
+- 🌱 I’m working on @NearProtocol & @Ethereum ecosystem.
 - 👯 I’m looking to collaborate on any project.
 - 🤔 I’m looking for help with any project
 - 💬 I love playing guitar and piano. I am a trader but always sell at the bottom.
