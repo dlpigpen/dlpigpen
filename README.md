@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a DEFI builder. I am also a crypto investor.
-- ⚡ I’m working on Multi-chain liquidity for the web3 economy, building Defi project on @NearProtocol, @Ethereum & @Starknet ecosystem.
+- ⚡ I’m working on Multi-chain liquidity for the web3 economy, building Defi project on @NearProtocol, @Ethereum ecosystem.
 - 🤔 I’m very glad to help and contribute to any project
 - 💬 I love playing guitar and piano. 
 - 🌱 I am still learning and improving my skill everyday.
