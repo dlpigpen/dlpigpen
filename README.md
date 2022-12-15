@@ -21,21 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/dlpigpen?achievement=pull-shark&tab=achievements">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=dlpigpen&count_private=true&show_icons=true&custom_title=MD's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
-    />
-   </a>
-
-  <a href="https://github.com/dlpigpen?achievement=pull-shark&tab=achievements">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlpigpen&layout=compact&theme=vision-friendly-dark" />
-  </a>  
-</p>
-
 - 📫 How to reach me: on telegram [@mitsori](https://t.me/mitsori) or [@hamado#2099](https://discordapp.com/users/546871072339918861) on discord
 
 <h3 align="left">Languages and Tools:</h3>
