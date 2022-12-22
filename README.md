@@ -32,6 +32,3 @@
         width="40" height="40" /> </a>
      </p>
 <br/>
-
-Generates a snake game from my Github contributions graph:
-![github contribution grid snake animation](https://raw.githubusercontent.com/dlpigpen/dlpigpen/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dlpigpen/dlpigpen/output/github-contribution-grid-snake.svg#gh-light-mode-only)
