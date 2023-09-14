@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I'm a DeFi builder, and I'm also a crypto investor.
-⚡  I'm working on multi-chain liquidity for the Web3 economy, building dApp projects on @Base, @NearProtocol, and within the Ethereum ecosystem.
-🤔 I'm very glad to offer help and contribute to any project.
-💬 I love playing the guitar and the piano.
+`🔭 I'm a DeFi builder, and I'm also a crypto investor.`<br />
+`⚡  I'm working on multi-chain liquidity for the Web3 economy, building dApp projects on @Ethereum, @BinanceSmartChain, @Arbitrum, @Solana and other ecosystems.`<br />
+`🤔 I'm very glad to offer help and contribute to any project.`<br />
+`💬 I love playing the guitar and the piano.`<br />
 
 ### 🛠 &nbsp;Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
