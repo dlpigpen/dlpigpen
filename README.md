@@ -29,8 +29,4 @@
 [![discord](https://user-images.githubusercontent.com/23559697/168879714-bf64acf3-48c9-4c8c-8507-fbbb7bf07481.png)](https://discordapp.com/users/546871072339918861)
 
 <br />
-<div wudth="100%">
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=dlpigpen&show_icons=true&theme=merko&count_private=true" />
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlpigpen&layout=compact&theme=monokai&count_private=true">
-</div>
-<br />
+
